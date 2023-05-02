@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityMvvmToolkit.Gen", "UnityMvvmToolkit.Gen\UnityMvvmToolkit.Gen.csproj", "{5C1D59A1-EF97-49EB-9199-29030644B355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityMvvmToolkit.Core", "UnityMvvmToolkit.Core\UnityMvvmToolkit.Core.csproj", "{498FE90A-140E-47FB-8BD7-09978B905C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C1D59A1-EF97-49EB-9199-29030644B355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1D59A1-EF97-49EB-9199-29030644B355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1D59A1-EF97-49EB-9199-29030644B355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1D59A1-EF97-49EB-9199-29030644B355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498FE90A-140E-47FB-8BD7-09978B905C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498FE90A-140E-47FB-8BD7-09978B905C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498FE90A-140E-47FB-8BD7-09978B905C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498FE90A-140E-47FB-8BD7-09978B905C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
